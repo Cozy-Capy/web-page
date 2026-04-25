@@ -3,7 +3,7 @@ import './style.css'
 document.querySelector('#app').innerHTML = `
   <div class="floating-bubbles" id="bubbles-container"></div>
   <div class="card">
-    <img src="/capybara.jpg" alt="Cozy Capybara" class="capybara-img" />
+    <img src="./capybara.jpg" alt="Cozy Capybara" class="capybara-img" />
     <h1>Cozy Capy</h1>
     <p class="subtitle">Your gentle guide through anxiety and panic. Discover grounded relief and a comforting space to regain your calm, coming soon.</p>
     
